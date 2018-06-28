@@ -10,10 +10,13 @@ or 4.7
 ----------------------------------------------------
 
 Projects:
+
 #POJOS as datasource and dataset
+
 DemoBirtScriptedDS
 
 #Project with the report design that needs to import the tool like jar (DemoBirtScriptedDS)
+
 demoSTS
 
 
